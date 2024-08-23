@@ -1,0 +1,10 @@
+# iOS
+.DS_Store
+
+# VS Code
+.project
+.classpath
+org.eclipse.buildship.core.prefs
+
+# drop
+drop
